@@ -1,0 +1,27 @@
+{
+  "name": "jstransformer-sheetify",
+  "version": "0.0.0",
+  "description": "Sheetify support for JSTransformers",
+  "keywords": [
+    "jstransformer",
+    "sheetify"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "jstransformers/jstransformer-sheetify",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "is-real-object": "^1.0.1",
+    "sheetify": "^2.0.0"
+  }
+}
