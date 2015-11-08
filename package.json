@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-sheetify",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Sheetify support for JSTransformers",
   "keywords": [
     "jstransformer",
