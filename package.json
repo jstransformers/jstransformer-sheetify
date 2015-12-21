@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "promise": "^7.0.4",
-    "sheetify": "^3.0.0"
+    "sheetify": "^3.3.0"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
