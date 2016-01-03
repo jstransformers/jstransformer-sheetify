@@ -10,7 +10,7 @@
     "index.js"
   ],
   "dependencies": {
-    "promise": "^7.0.4",
+    "promise": "^7.1.1",
     "sheetify": "^3.0.0"
   },
   "devDependencies": {
