@@ -1,7 +1,6 @@
 'use strict';
 
 var sheetify = require('sheetify');
-var Promise = require('promise');
 
 exports.name = 'sheetify';
 exports.outputFormat = 'css';

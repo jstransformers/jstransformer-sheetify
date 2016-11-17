@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.0.1: 2016-11-16
+
+- Updated Boilerplate
+
 ## v2.0.0: 2015-11-08
 
 - Updated to `sheetify@^3.0.0`
