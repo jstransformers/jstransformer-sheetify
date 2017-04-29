@@ -1,5 +1,7 @@
 # jstransformer-sheetify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-sheetify.svg)](https://greenkeeper.io/)
+
 [Sheetify](https://github.com/sheetify/sheetify) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-sheetify/master.svg)](https://travis-ci.org/jstransformers/jstransformer-sheetify)
