@@ -1,13 +1,13 @@
 'use strict'
 
-var sheetify = require('sheetify')
+const sheetify = require('sheetify')
 
 exports.name = 'sheetify'
 exports.outputFormat = 'css'
 
 exports.renderFileAsync = function (fp, options) {
-  return new Promise(function (resolve, reject) {
-    sheetify(fp).bundle(options || {}, function (err, res) {
+  return new Promise((resolve, reject) => {
+    sheetify(fp).bundle(options || {}, (err, res) => {
       if (err) {
         return reject(err)
       }
