@@ -11,6 +11,7 @@ exports.renderFileAsync = function (fp, options) {
       if (err) {
         return reject(err)
       }
+
       return resolve(res)
     })
   })
