@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "sheetify": "^7.2.0"
+    "sheetify": "^8.0.0"
   },
   "name": "jstransformer-sheetify",
   "version": "2.0.1",
