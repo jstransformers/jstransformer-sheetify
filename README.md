@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-sheetify/master.svg)](https://travis-ci.org/jstransformers/jstransformer-sheetify)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-sheetify/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-sheetify)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-sheetify/master.svg)](http://david-dm.org/jstransformers/jstransformer-sheetify)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-sheetify.svg)](https://www.npmjs.org/package/jstransformer-sheetify)
 
 ## Installation
